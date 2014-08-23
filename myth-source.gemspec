@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name      = 'myth-source'
   s.version   = '1.1.1'
-  s.date      = '2014-02-17'
+  s.date      = '2014-08-23'
 
   s.homepage    = "http://github.com/danschultzer/ruby-myth"
   s.summary     = "Ruby Myth Preprocessor"
